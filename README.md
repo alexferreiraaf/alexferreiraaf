@@ -1,6 +1,9 @@
 ## Olá, Eu sou o Alex Ferreira 👋
 
-[![Email](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]
+[![Email](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Instagran](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.instagram.com/alex.c_ferreira/)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexferreiraaf&show_icons=true&theme=radical)
 
 ## 
