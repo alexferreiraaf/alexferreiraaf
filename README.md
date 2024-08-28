@@ -4,7 +4,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@alex.ferreira411)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-ferreira411/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexferreiraaf&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexferreiraaf&show_icons=true&theme=radical)## 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexferreiraaf&layout=compact&langs_count=6&theme=tokyonight)
 
 ##Tecnologias que eu uso
 
@@ -16,8 +17,6 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </div>
 
-## 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexferreiraaf&hide_progress=true)
 <!--
 **alexferreiraaf/alexferreiraaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
